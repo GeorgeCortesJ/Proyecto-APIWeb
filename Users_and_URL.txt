@@ -1,0 +1,10 @@
+UserDB:
+DbHotelBeach
+Ucr2025*
+
+UserApi:
+ApiHotelBeach
+Ucr2025*
+
+urlApi:
+http://APIHotelBeach.somee.com
